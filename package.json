@@ -1,0 +1,9 @@
+{
+  "name": "quick-script",
+  "version": "1.0.0",
+  "description": "Your Figma plugin",
+  "main": "code.js",
+  "scripts": {},
+  "author": "tankxu",
+  "license": ""
+}
