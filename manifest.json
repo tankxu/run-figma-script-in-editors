@@ -1,0 +1,8 @@
+{
+  "name": "Quick Script",
+  "id": "1068094255304641600",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": ["figma", "figjam"],
+  "permissions": ["currentuser"]
+}
